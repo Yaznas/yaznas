@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Spotify Now Playing 🎵 
 [![Spotify](https://novatorem-sanj.vercel.app/api/spotify)](https://open.spotify.com/user/whlu9xaik5ljdfsz4pbtbq50m)
